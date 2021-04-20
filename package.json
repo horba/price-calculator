@@ -1,7 +1,7 @@
 {
-  "name": "react-webpack5-eslint",
+  "name": "Price calculator",
   "version": "1.0.0",
-  "description": "sample app template react with webpack 5 and settings of eslint",
+  "description": "Simple app to calculate price for handmake items based on salary wishes and spending time",
   "main": "index.js",
   "scripts": {
     "test": "jest",
