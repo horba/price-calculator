@@ -1,10 +1,9 @@
 import React from 'react';
+import { Container } from '@material-ui/core';
+import { Calculator } from "@views";
 
 export default function App() {
   return (
-    <div>
-      This is a sample stateful and server-side
-      rendered React application.
-    </div>
+    <Container><Calculator/></Container>
   );
 }
